@@ -1,0 +1,4 @@
+param,dbcv,n_clusters,noise_ratio,duration
+50,,2,0.0,0.35431777238845824
+Average,,,,0.35431777238845824
+Best,-1.0,,,
